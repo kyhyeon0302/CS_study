@@ -24,3 +24,7 @@ ex O(N^2 + N + 1) ~= O(N^2)
 4. O(NlogN) : 퀵 정렬, 병합 정렬, 힙 정렬
 5. O(N^2) : 이중 for문, 삽입 정렬, 버블 정렬, 선택 정렬
 6. O(2(N^2)) : 피보나치 수열
+
+
+
+![BigO ](/Users/yonghyeon/Desktop/to/빅오비교.jpg)
